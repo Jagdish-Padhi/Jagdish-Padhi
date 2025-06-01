@@ -45,7 +45,7 @@
 
 ---
 
-## 📬 Let's CODE to DECODE problems!
+## 🔥 Let's CODE to DECODE problems!
 
 <p>
   <a href="https://www.linkedin.com/in/jagdish-padhi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
