@@ -47,9 +47,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagdish-Padhi&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
-## 🟩 My Contribution Graph
+## ⚡ Contribution Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jagdish-Padhi&bg_color=0f172a&color=00ff88&line=22d3ee&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jagdish-Padhi&bg_color=000000&color=39ff14&line=0affef&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
@@ -60,7 +60,7 @@
 <p>
   <a href="https://www.linkedin.com/in/jagdish-padhi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Jagdish-Padhi" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:jagdish.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:hackerxjagdish9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </p>
 
