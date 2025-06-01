@@ -43,6 +43,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish-Padhi&layout=compact&theme=radical" alt="top langs" height="170">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagdish-Padhi&theme=radical&hide_border=true" alt="streak"/>
+</p>
+
+## 🟩 My Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jagdish-Padhi&bg_color=0f172a&color=00ff88&line=22d3ee&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 ---
 
 ## 🔥 Let's CODE to DECODE problems!
