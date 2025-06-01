@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Jagdish 👋</h1>
-<h3 align="center">B.Tech CSE @ VESIT Mumbai | MERN & Java Enthusiast | Building creative tools 🚀</h3>
+<h1 align="center">Hey there, I'm Jagdish Padhi👋</h1>
+<h3 align="center">B.Tech CSE'28 @VESIT Mumbai | MERN & AI Explorer | Building creative tools 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jagdish123&label=Profile%20views&color=0e75b6&style=flat" alt="jagdish123" />
