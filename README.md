@@ -29,10 +29,10 @@
 
 ## 📂 Featured MVP's build during Hackathons
 
-🔹 [**SmartSahayak**](https://github.com/your-username/smartsahayak) – AI-powered productivity assistant for rural students.  
-🔹 [**GuruBuddy**](https://github.com/your-username/gurubuddy) – Voice-based class reminder and topic tracker for teachers. 
+🔹 [**SmartSahayak**](https://github.com/Jagdish-Padhi/SmartSahayak) – AI-powered productivity assistant for rural students.  
+🔹 [**GuruBuddy**](https://github.com/Jagdish-Padhi/Gurubuddy) – Voice-based class reminder and topic tracker for teachers. 
 
-🧠 More projects coming soon — [Check them out ➜](https://github.com/jagdish123?tab=repositories)
+🧠 More projects coming soon — [Check them out ➜](https://github.com/Jagdish-Padhi?tab=repositories)
 
 ---
 
