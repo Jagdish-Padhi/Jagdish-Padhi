@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Jagdish Padhi </h1>
+<h1 align="center">👋 Hey there, I'm Jagdish Padhi ✨</h1>
 <h3 align="center"> 💻 B.Tech CSE'28 @VESIT Mumbai | MERN & AI Explorer | Building creative tools 🚀</h3>
 
 <p align="center">
@@ -46,11 +46,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagdish-Padhi&theme=radical&hide_border=true" alt="streak"/>
 </p>
-
-## ⚡ Contribution Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jagdish-Padhi&bg_color=000000&color=39ff14&line=0affef&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 ---
