@@ -3,6 +3,8 @@
   ✨
 </h1>
 
+
+
 <h3 align="center"> 💻 B.Tech CSE'28 @VESIT Mumbai | MERN & AI Explorer | Building creative tools 🚀</h3>
 
 <p align="center">
@@ -19,15 +21,10 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## ⚙️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwindcss,git,vscode" height="36" />
+</p>
 
 ---
 
