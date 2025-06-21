@@ -3,11 +3,6 @@
   ✨
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=22&pause=500&color=00F7FF&width=435&lines=✨+Welcome+to+My+Profile;🚀+MERN+Stack+Developer" alt="Typing animation" />
-</p>
-
-   
 <h3 align="center"> 💻 B.Tech CSE'28 @VESIT Mumbai | MERN & AI Explorer | Building creative tools 🚀</h3>
 
 <p align="center">
