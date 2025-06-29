@@ -58,15 +58,21 @@
   />
 </p>
 
+<!-- Snake Animation -->
 <p align="center">
-  <!-- Contribution Graph -->
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Jagdish-Padhi&theme=tokyo-night&hide_border=true&area=true&custom_title=Jagdish%20Padhi%20-%20Contribution%20Graph" 
-  alt="Contribution Graph" 
-  width="96%"
-/>
-
+  <img src="https://raw.githubusercontent.com/Jagdish-Padhi/Jagdish-Padhi/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
+
+<!-- Static Activity Graph -->
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Jagdish-Padhi&theme=github-compact&hide_border=true&area=true&custom_title=Jagdish%20Padhi%20-%20Activity%20Graph" 
+    alt="GitHub Activity Graph" 
+    width="100%"
+  />
+</p>
+
+
 
 
 
