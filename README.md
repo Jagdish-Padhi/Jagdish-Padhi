@@ -58,11 +58,6 @@
   />
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jagdish-Padhi/Jagdish-Padhi/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
 <!-- Static Activity Graph -->
 <p align="center">
   <img 
