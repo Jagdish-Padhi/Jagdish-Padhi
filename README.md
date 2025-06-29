@@ -31,9 +31,43 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jagdish-Padhi&show_icons=true&theme=radical" alt="stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish-Padhi&layout=compact&theme=radical" alt="top langs" height="170">
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Jagdish-Padhi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" 
+    alt="GitHub Stats" 
+    height="170"
+  />
+
+  </p>
+
+  <p align="center">
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish-Padhi&layout=compact&hide_border=true&langs_count=8&theme=radical&cache_seconds=1800" 
+    alt="Top Languages" 
+    height="170"
+  />
 </p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Jagdish-Padhi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+    alt="GitHub Streak" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Jagdish-Padhi&theme=tokyo-night&hide_border=true&area=true&custom_title=Jagdish%20Padhi%20-%20Contribution%20Graph" 
+  alt="Contribution Graph" 
+  width="96%"
+/>
+
+</p>
+
 
 
 
