@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 🎯 I'm enjoy DECODING **real-world problems** with the help of CODING.
+- 🎯 I enjoy DECODING **real-world problems** with the help of CODING.
 - 🔥 Currently exploring tech world and enjoy to adapt as per need!
 - ✅ I love to contribute in open source where I can implement and learn industry level skills.
 
