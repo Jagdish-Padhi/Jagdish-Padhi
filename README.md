@@ -40,14 +40,15 @@
 
   </p>
 
+  <!--
   <p align="center">
-  <!-- Most Used Languages -->
+ Most Used Languages 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish-Padhi&layout=compact&hide_border=true&langs_count=8&theme=radical&cache_seconds=1800" 
     alt="Top Languages" 
     height="170"
   />
-</p>
+</p>  -->
 
 <p align="center">
   <!-- GitHub Streak -->
