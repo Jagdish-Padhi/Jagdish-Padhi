@@ -26,12 +26,13 @@
   <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwindcss,git,vscode" height="36" />
 </p>
 
----
 
+
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
+   GitHub Stats 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Jagdish-Padhi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" 
     alt="GitHub Stats" 
@@ -40,7 +41,7 @@
 
   </p>
 
-  <!--
+ 
   <p align="center">
  Most Used Languages 
   <img 
@@ -50,8 +51,10 @@
   />
 </p>  -->
 
+
+ <!-- 
 <p align="center">
-  <!-- GitHub Streak -->
+ GitHub Streak 
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Jagdish-Padhi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
     alt="GitHub Streak" 
@@ -59,7 +62,7 @@
   />
 </p>
 
-<!-- Static Activity Graph -->
+<!-- Static Activity Graph 
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Jagdish-Padhi&theme=github-compact&hide_border=true&area=true&custom_title=Jagdish%20Padhi%20-%20Activity%20Graph" 
@@ -70,7 +73,7 @@
 
 
 
-
+-->
 
 
 ---
@@ -79,7 +82,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/jagdish-padhi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Jagdish-Padhi" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:hackerxjagdish9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </p>
