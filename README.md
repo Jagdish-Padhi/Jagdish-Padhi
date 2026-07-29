@@ -1,89 +1,117 @@
-<h1 align="center">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36px"> Hey there, I'm Jagdish
-  ✨
-</h1>
-
-
-
-<h3 align="center"> 💻 B.Tech CSE'28 @VESIT Mumbai | MERN & AI Explorer | Building creative tools 🚀</h3>
+<!-- =========================
+     HEADER
+========================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jagdish-Padhi&label=Profile%20views&color=0e75b6&style=flat" alt="Jagdish-Padhi" />
-</p>
-
----
-
-## 🧠 About Me
-
-- 🎯 I enjoy DECODING **real-world problems** with the help of CODING.
-- 🔥 Currently exploring tech world and enjoy to adapt as per need!
-- ✅ Loading...
-
----
-
-## ⚙️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,tailwindcss,git,vscode" height="36" />
-</p>
-
-
-
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-   GitHub Stats 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jagdish-Padhi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=1800" 
-    alt="GitHub Stats" 
-    height="170"
-  />
-
-  </p>
-
- 
-  <p align="center">
- Most Used Languages 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish-Padhi&layout=compact&hide_border=true&langs_count=8&theme=radical&cache_seconds=1800" 
-    alt="Top Languages" 
-    height="170"
-  />
-</p>  -->
-
-
- <!-- 
-<p align="center">
- GitHub Streak 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Jagdish-Padhi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-    alt="GitHub Streak" 
-    height="170"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=27&duration=4200&pause=1800&color=8B949E&center=true&vCenter=true&width=850&lines=BUILDING.%20BREAKING.%20ENGINEERING.;BUILDING%20SYSTEMS%20THAT%20SOLVE%20REAL%20PROBLEMS."
+    alt="Building. Breaking. Engineering."
   />
 </p>
 
-<!-- Static Activity Graph 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Jagdish-Padhi&theme=github-compact&hide_border=true&area=true&custom_title=Jagdish%20Padhi%20-%20Activity%20Graph" 
-    alt="GitHub Activity Graph" 
-    width="100%"
-  />
+  Software Engineering · Systems Design · Distributed Systems · Cloud Infrastructure
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jagdish-padhi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jagdish.padhi.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jdecode.tech">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 
 
--->
+## ◆ Proof of Work
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-
----
-
-## 🔥 Let's CODE to DECODE problems!
+<h3>HackDekh</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/jagdish-padhi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hackerxjagdish9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+  <a href="https://github.com/Jagdish-Padhi/HackDekh">
+    <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://hackdekh.jdecodes.tech">
+    <img src="https://img.shields.io/badge/Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
+<p>
+  An engineered data aggregation platform for discovering and managing hackathons through automated data pipelines and structured backend workflows.
+</p>
 
+<p>
+  <code>Data engineering</code>
+  <code>Event-Driven Architecture</code>
+  <code>RBAC</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>SportShield </h3>
+
+<p>
+  <a href="https://github.com/Jagdish-Padhi/SportShield">
+    <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://sportshield.jdecodes.tech">
+    <img src="https://img.shields.io/badge/Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+
+   <a href="YOUR_CERTIFICATE_LINK">
+  <img src="https://img.shields.io/badge/Google%20Solution%20Challenge%202026-Top%20100-4285F4?style=flat-square&logo=google&logoColor=white" />
+</a>
+</p>
+
+<p>
+  An AI-powered digital rights platform engineered for video fingerprinting, similarity analysis, and automated piracy evidence generation.
+</p>
+
+<p>
+  <code>Video Fingerprinting</code>
+  <code>Computer Vision</code>
+  <code>Similarity Analysis</code>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+
+
+
+## ◆ Technical Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript · TypeScript · Java · Python |
+| **Frontend** | React.js · HTML5 · CSS3 · Tailwind CSS |
+| **Backend** | Node.js · Express.js · FastAPI · RESTful APIs |
+| **Databases & ORM** | MongoDB · PostgreSQL · Prisma ORM |
+| **Infrastructure & Tools** | Docker · Git · GitHub · Postman · Firebase · Cloudinary |
+| **Gen AI** | Gemini AI · Open AI · Groq AI  |
+
+---
+
+
+## ◆ Recognition
+
+| Competition / Achievement | Result | Scale |
+| :--- | :--- | :--- |
+| 🏆 **Google Solution Challenge 2026** | **Top 100 Semi-Finalist** | 6,700+ prototypes & 85000+ participants |
+| 🏆 **Odoo x Adani University Hackathon** | **Top 100 Finalist** | 700+ teams  & 2100+ participants|
+| 🏆 **Genesis'26 Hackathon** | **Top 6 Finalist** | 150+ teams  & 450+ participants|
+| 🏆 **Hack-AI-Thon'26, VESIT** | **Top 4 Finalist** | 90+ teams & 350+ participants |
+| 🏆 **DotSlash 9.0, NIT Surat** | **Top 40 Finalist** | 600+ teams & 2200+ participants|
+| 🏆 **Airavat 3.0, SPIT** | **Top 40 Finalist** | 650+ teams & 2400+ participants|
