@@ -60,7 +60,7 @@
 <h3>SportShield </h3>
 
 <p>
-  <a href="https://github.com/Jagdish-Padhi/SportShield">
+  <a href="https://github.com/Jagdish-Padhi/Google-Solution-Challenge">
     <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://sportshield.jdecodes.tech">
