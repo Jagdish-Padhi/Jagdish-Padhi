@@ -20,7 +20,7 @@
   <a href="mailto:jagdish.padhi.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://jdecode.tech">
+  <a href="https://jdecodes.tech">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
