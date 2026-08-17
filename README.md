@@ -41,6 +41,12 @@
   <a href="https://hackdekh.jdecodes.tech">
     <img src="https://img.shields.io/badge/Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white" />
   </a>
+
+
+  <a href="https://github.com/Jagdish-Padhi/Google-Solution-Challenge">
+  <img src="https://img.shields.io/badge/HackHazards%20International%20Hackathon-Top%20100-FFD700?style=flat-square&logo=github&logoColor=black" />
+</a>
+
 </p>
 
 <p>
@@ -67,9 +73,13 @@
     <img src="https://img.shields.io/badge/Live_Demo-238636?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 
-   <a href="YOUR_CERTIFICATE_LINK">
+   <a href="https://github.com/Jagdish-Padhi/Google-Solution-Challenge">
   <img src="https://img.shields.io/badge/Google%20Solution%20Challenge%202026-Top%20100-4285F4?style=flat-square&logo=google&logoColor=white" />
 </a>
+
+
+
+
 </p>
 
 <p>
