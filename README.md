@@ -100,21 +100,6 @@
 
 
 
-
-## ◆ Technical Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript · TypeScript · Java · Python |
-| **Frontend** | React.js · HTML5 · CSS3 · Tailwind CSS |
-| **Backend** | Node.js · Express.js · FastAPI · RESTful APIs |
-| **Databases & ORM** | MongoDB · PostgreSQL · Prisma ORM |
-| **Infrastructure & Tools** | Docker · Git · GitHub · Postman · Firebase · Cloudinary |
-| **Gen AI** | Gemini AI · Open AI · Groq AI  |
-
----
-
-
 ## ◆ Recognition
 
 | Competition / Achievement | Result | Scale |
