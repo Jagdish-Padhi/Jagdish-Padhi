@@ -105,9 +105,9 @@
 | Competition / Achievement | Result | Scale |
 | :--- | :--- | :--- |
 | 🏆 **Google Solution Challenge 2026** | **Top 100 Semi-Finalist** | 6,700+ prototypes & 85000+ participants |
+| 🏆 **HackHazards International Hackathon** | **Top 50 Builders** | 6,200+ prototypes world-wide |
 | 🏆 **Far Away International Hackathon** | **Top 100 Semi-Finalist** | 2100+ teams |
 | 🏆 **Odoo x Adani University Hackathon** | **Top 100 Finalist** | 700+ teams  & 2100+ participants|
 | 🏆 **Genesis'26 Hackathon** | **Top 6 Finalist** | 150+ teams  & 450+ participants|
 | 🏆 **Hack-AI-Thon'26, VESIT** | **Top 4 Finalist** | 90+ teams & 350+ participants |
 | 🏆 **DotSlash 9.0, NIT Surat** | **Top 40 Finalist** | 600+ teams & 2200+ participants|
-| 🏆 **Airavat 3.0, SPIT** | **Top 40 Finalist** | 650+ teams & 2400+ participants|
