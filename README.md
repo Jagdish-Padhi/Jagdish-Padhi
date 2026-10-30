@@ -27,7 +27,9 @@
 
 
 
-## ◆ Proof of Work
+## ◆ Real-world engineering matters more than fancy words!
+
+
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
@@ -44,7 +46,7 @@
 
 
   <a href="https://github.com/Jagdish-Padhi/Google-Solution-Challenge">
-  <img src="https://img.shields.io/badge/HackHazards%20International%20Hackathon-Top%20100-FFD700?style=flat-square&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/HackHazards%20International%20Hackathon-Top%2050-FFD700?style=flat-square&logo=github&logoColor=black" />
 </a>
 
 </p>
@@ -100,14 +102,13 @@
 
 
 
-## ◆ Recognition
+## ◆ Wish I could have listed all of them!
 
-| Competition / Achievement | Result | Scale |
+| Competition / Hackathon | Result | Scale |
 | :--- | :--- | :--- |
 | 🏆 **Google Solution Challenge 2026** | **Top 100 Semi-Finalist** | 6,700+ prototypes & 85000+ participants |
-| 🏆 **HackHazards International Hackathon** | **Top 50 Builders** | 6,200+ prototypes world-wide |
-| 🏆 **Far Away International Hackathon** | **Top 100 Semi-Finalist** | 2100+ teams |
+| 🏆 **HackHazards International Hackathon** | **Top 50 Builders** | 6,200+ prototypes & 32000+ participants globally |
+| 🏆 **Far Away International Hackathon** | **Top 100 Semi-Finalist** | 2100+ teams Nationally |
 | 🏆 **Odoo x Adani University Hackathon** | **Top 100 Finalist** | 700+ teams  & 2100+ participants|
-| 🏆 **Genesis'26 Hackathon** | **Top 6 Finalist** | 150+ teams  & 450+ participants|
-| 🏆 **Hack-AI-Thon'26, VESIT** | **Top 4 Finalist** | 90+ teams & 350+ participants |
+| 🏆 **Odoo Flagship Hackathon** | **Top 10 Finalist** | 5500+ teams  & 20000+ participants|
 | 🏆 **DotSlash 9.0, NIT Surat** | **Top 40 Finalist** | 600+ teams & 2200+ participants|
